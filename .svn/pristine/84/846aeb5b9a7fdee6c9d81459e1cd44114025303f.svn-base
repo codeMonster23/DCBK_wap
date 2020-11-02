@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+    	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    	<meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no,initial-scale=1.0">
+        <link rel="stylesheet"  href="../../css/bootstrap.min.css">
+        <link rel="stylesheet"  href="../../css/global.css">
+        <link rel="stylesheet"  href="../../css/index.css">
+        <script src="../../js/jquery-1.10.1.min.js"></script>
+        <script src="../../js/bootstrap.min.js"></script>
+        <script src="../../js/public.js"></script>
+    </head>
+    <body>
+        <div class="wrap">
+            <div class="profile">
+                <header>
+                    <a href="" class="return"></a>
+                    TA的资料
+                </header>      
+                <ul class="list">
+                    <li> <span>昵称：</span>安静的一朵云</li>
+                    <li class="active"><span>真实姓名：</span>王小花</li>
+                    <li><span>职业：</span>大学教师</li>
+                    <li><span>单位：</span>北京联合大学</li>
+                    <li>
+                        <span>简介：</span><p>我想独自去一个地方，其实哪里都好。重要的是独自在天黑之前出发，在天黑之前回来，因为夜晚总让我觉得不安，不想为了任何人迁就行程，就想到一个陌生的城市，随便走走，住一家干净的旅店，挑一个朝南的房间...</p>
+                        <div class="unfold">展开</div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </body>
+</html>

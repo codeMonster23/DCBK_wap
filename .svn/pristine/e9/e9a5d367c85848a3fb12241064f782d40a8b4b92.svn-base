@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+    	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    	<meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no,initial-scale=1.0">
+        <link rel="stylesheet"  href="../css/bootstrap.min.css">
+        <link rel="stylesheet"  href="../css/global.css">
+        <link rel="stylesheet"  href="../css/index.css">
+        <script src="../js/jquery-1.10.1.min.js"></script>
+        <script src="../js/bootstrap.min.js"></script>
+        <script src="../js/public.js"></script>
+    </head>
+    <body>
+        <div class="wrap">
+            <div class="worksDetail">               
+                <header>
+                    <a href="" class="home"></a>
+                    重新发现爱和勇气
+                    <a href="" class="share"></a>
+                </header>
+                <div class="banner">
+                    <div class="pic">
+                        <img src="../images/index/banner2.jpg" width="100%">
+                    </div>
+                    <div class="item caption clearfix">
+                        <p class="p1">重新发现爱和勇气</p>
+                        <div class="personal-profile clearfix">
+                            <dl class="fl clearfix">
+                                <dt>
+                                    <a href=""><img src="../imagesTemp/index/product1.jpg" width="100%" height="100%" alt=""></a>
+                                </dt>
+                                <dd>
+                                    <h4>王小花</h4>
+                                    <p>江苏省南通市广播电视集团报业中心江苏省南通市广播电视集团报业中心</p>
+                                </dd>
+                            </dl>
+                            <div class="icons fr">
+                                <a href="" class="icon1">6.87万</a><a href="" class="icon2">1.98万</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>     
+
+                <!--简介 START-->
+                <div class="module abstract">
+                    <div class="module-hd"><span class="line"></span><div class="title">简介</div></div>
+                    <div class="module-bd positionR">
+                       <p>西泠印社，创建于清光绪三十年（1904年），由浙派篆刻家丁辅之、王福庵、吴隐、叶为铭发起创建，吴昌硕为第一任社长西泠印社，创建于清光绪三十年（1904年），由浙派篆刻家丁辅之、王福庵、吴隐、叶为铭发起创建，吴昌硕为第一任社长......</p>
+                       <a href="javascript:;" class="upfold">更多<i></i></a>
+                    </div>
+                </div>
+                 <!--简介 END-->
+
+                 <!--目录 START-->
+                <div class="module catalogue">
+                    <div class="module-hd"><span class="line"></span><div class="title">目录</div></div>
+                    <div class="module-bd">
+                        <div class='chapterWrap'>
+                            <div class="chapter-list">
+                                <div class="chapter1"><span>第1章、</span>百年西泠，盛世风华百年西泠，盛世风华百年西泠，盛世风华百年西泠，盛世风华</div>
+                                <div class="chapter2">百年西泠的文脉与风骨百年西泠的文脉与风骨百年西泠的文脉与风骨</div>
+                                <div class="chapter2">西泠峰骨缘何绵延</div>
+                                <div class="chapter2">西泠印社:印坛盟主百年潮</div>
+                                <div class="chapter1"><span>第2章、</span>中国印学，绝世艺术</div>
+                                <div class="chapter1"><span>第3章、</span>百年西泠，盛世风华</div>
+                                <div class="chapter1"><span>第4章、</span>百年西泠，盛世风华</div>
+                                <div class="chapter2">百年西泠的文脉与风骨</div>
+                                <div class="chapter2">“西泠峰骨”缘何绵延</div>
+                                <div class="chapter1"><span>第3章、</span>百年西泠，盛世风华</div>
+                                <div class="chapter1"><span>第4章、</span>百年西泠，盛世风华</div>
+                                <div class="chapter2">百年西泠的文脉与风骨</div>
+                                <div class="chapter2">“西泠峰骨”缘何绵延</div>
+                                <div class="chapter1"><span>第3章、</span>百年西泠，盛世风华</div>
+                                <div class="chapter1"><span>第4章、</span>百年西泠，盛世风华</div>
+                                <div class="chapter2">百年西泠的文脉与风骨</div>
+                                <div class="chapter2">“西泠峰骨”缘何绵延</div>
+                                <div class="chapter1"><span>第3章、</span>百年西泠，盛世风华</div>
+                                <div class="chapter1"><span>第4章、</span>百年西泠，盛世风华</div>
+                                <div class="chapter2">百年西泠的文脉与风骨</div>
+                                <div class="chapter2">“西泠峰骨”缘何绵延</div>
+                                <div class="chapter1"><span>第3章、</span>百年西泠，盛世风华</div>
+                                <div class="chapter1"><span>第4章、</span>百年西泠，盛世风华</div>
+                                <div class="chapter2">百年西泠的文脉与风骨</div>
+                                <div class="chapter2">“西泠峰骨”缘何绵延</div>
+                                <div class="chapter1"><span>第3章、</span>百年西泠，盛世风华</div>
+                                <div class="chapter1"><span>第4章、</span>百年西泠，盛世风华</div>
+                                <div class="chapter2">百年西泠的文脉与风骨</div>
+                                <div class="chapter2">“西泠峰骨”缘何绵延</div>
+                                <div class="chapter1"><span>第3章、</span>百年西泠，盛世风华</div>
+                                <div class="chapter1"><span>第4章、</span>百年西泠，盛世风华</div>
+                                <div class="chapter2">百年西泠的文脉与风骨</div>
+                                <div class="chapter2">“西泠峰骨”缘何绵延</div>
+                                <div class="chapter1"><span>第3章、</span>百年西泠，盛世风华</div>
+                                <div class="chapter1"><span>第4章、</span>百年西泠，盛世风华</div>
+                                <div class="chapter2">百年西泠的文脉与风骨</div>
+                                <div class="chapter2">“西泠峰骨”缘何绵延</div>
+                                <div class="chapter1 mgb0"><span>第5章、</span>中国印学，绝世艺术</div>
+                            </div>
+                        </div>
+                        <div class="mask1">
+                            <a href="javascript:;" class="upfold">更多<i></i></a>
+                        </div>
+                    </div>
+                </div>
+                <!-- 多媒体附件 -->
+                <div class="module medialist">
+                    <div class="module-hd"><span class="line"></span><div class="title">多媒体附件</div></div>
+                    <ul class="module-bd">
+                        <li class="video"><a href="">1.尤袤研究文献综述.mv</a></li>
+                        <li class="audio"><a href="">2.尤袤诗名及其生卒年解析.ppt</a></li>
+                        <li><a href="">3.尤袤诗歌评述.ppt</a></li>
+                        <li><a href="">4.论尤袤诗名及诗作.mp3</a></li>
+                        <li class="audio"><a href="">5.南宋诗人尤袤诗文思想内容探微.ppt</a></li>
+                        <li><a href="">6.尤袤诗文系列年补正.ppt</a></li>
+                        <li class="video"><a href="">7.立政为民 诗法自然——尤袤政治、文学思想解析.mp3</a></li>
+                    </ul>
+                </div>
+                <div class="item price clearfix">
+                    <!-- <div class="left fl">
+                        <p class="p1">￥34.50</p>
+                        <p class="p2">评价：
+                            <span class="star">
+                                <a href="javascript:;"><img src="../images/index/star-a.png" width="100%" alt=""></a>
+                                <a href="javascript:;"><img src="../images/index/star.png" width="100%" alt=""></a>
+                                <a href="javascript:;"><img src="../images/index/star.png" width="100%" alt=""></a>
+                                <a href="javascript:;"><img src="../images/index/star.png" width="100%" alt=""></a>
+                                <a href="javascript:;"><img src="../images/index/star.png" width="100%" alt=""></a>
+                            </span>
+                        </p>
+                    </div> -->
+                    <a href="javascript:void(0)" class="btn" data-toggle="modal" data-target=".modal2" >阅读本书</a>
+                </div>
+                <!--目录 END-->
+
+                 <!--评论 START-->
+                <div class="module comment">
+                    <div class="module-hd"><span class="line"></span><div class="title">评论（52）</div></div>
+                    <div class="module-bd">
+                        <div class="panel">
+                            <div class="panel-heading">
+                                <dl>
+                                    <dt><img src="../imagesTemp/index/wd_c_avatar1.jpg" alt=""></dt>
+                                    <dd>
+                                        <h4>帅到没朋友</h4>
+                                        <p>2016-06-26</p>
+                                    </dd>
+                                </dl>
+                                <a href="" class="mark">201</a>
+                            </div>
+                            <div class="panel-body">
+                                <p>每一个优秀的人，都有一段沉默的时光。那一段时光，是付出了很多努力，忍受孤独和寂寞，不抱怨不诉苦，不辜负不叹息。</p>
+                            </div>
+                        </div>
+                        <div class="panel">
+                            <div class="panel-heading">
+                                <dl>
+                                    <dt><img src="../imagesTemp/index/wd_c_avatar2.jpg" alt=""></dt>
+                                    <dd>
+                                        <h4>杨丁珠珠</h4>
+                                        <p>2016-06-26</p>
+                                    </dd>
+                                </dl>
+                                <a href="" class="mark active">201</a>
+                            </div>
+                            <div class="panel-body">
+                                <p>全球顶级育儿专家用浅显易懂的语言教你如何应对孩子的睡眠问题</p>
+                            </div>
+                        </div>
+                        <div class="panel">
+                            <div class="panel-heading">
+                                <dl>
+                                    <dt><img src="../imagesTemp/index/wd_c_avatar3.jpg" alt=""></dt>
+                                    <dd>
+                                        <h4>冬之恋人</h4>
+                                        <p>2016-06-26</p>
+                                    </dd>
+                                </dl>
+                                <a href="" class="mark">201</a>
+                            </div>
+                            <div class="panel-body">
+                                <p>孩子，尤其是高度敏感的那些孩子，很容易受到父母情绪的感染。假如她突然大发脾气，我们表现出“没事，没问题”的态度，她也会模仿我们的平和，学会安静下来；假如遇事我们任自己大发雷霆或忧心忡忡</p>
+                            </div>
+                        </div>
+                        <div class="panel last">
+                            <div class="panel-heading">
+                                <dl>
+                                    <dt><img src="../imagesTemp/index/wd_c_avatar1.jpg" alt=""></dt>.
+                                    <dd>
+                                        <h4>杨丁珠珠</h4>
+                                        <p>2016-06-26</p>
+                                    </dd>
+                                </dl>
+                                <a href="" class="mark">201</a>
+                            </div>
+                            <div class="panel-body">
+                                <p>全球顶级育儿专家用浅显易懂的语言教你如何应对孩子的睡眠问题</p>
+                            </div>
+                        </div>
+                        <a href="" class="loading grey">更多精彩评论</a>
+                    </div>
+                </div>
+                 <!--评论 END-->
+
+                <!--猜你喜欢 START-->
+                <div class="module module3">
+                    <div class="module-hd"><span class="line"></span><div class="title">猜你喜欢</div></div>
+                    <div class="module-bd">
+                        <ul class="imgWrap2 clearfix">
+                            <li><a href=""><img src="../imagesTemp/index/m3-2.jpg"></a><h4><a href="">一脉相承，同根同源</a></h4><p>李思<span class="fr">阅读(154)</span></p></li>
+                            <li><a href=""><img src="../imagesTemp/index/m3-2.jpg"></a><h4><a href="">世界儿童文学简史</a></h4><p>李思<span class="fr">阅读(154)</span></p></li>
+                            <li><a href=""><img src="../imagesTemp/index/m3-2.jpg"></a><h4><a href="">衡文久远</a> </h4><p>李思<span class="fr">阅读(154)</span></p></li>
+                            <li><a href=""><img src="../imagesTemp/index/m3-2.jpg"></a><h4><a href="">姓名与汉文化</a></h4><p>李思<span class="fr">阅读(154)</span></p></li>
+                        </ul>
+                    </div>
+                </div>
+                <!--猜你喜欢 END-->
+            </div>
+
+            <div class="copyright">&copy;2017 CNKI大成编客</div>
+        </div>
+        <!-- 提示模态框（Modal） -->
+        <div class="modal modal2 fade"  data-keyboard="false">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <h4 class="modal-title"><img src="../images/index/cnki_logo.jpg" alt=""></h4>
+                    <p>请下载手机知网客户端阅读本书</p>
+                    <div class="modal-footer padding0">
+                        <button type="button" class="btn btn1" data-dismiss="modal">取消</button>
+                        <button type="button" class="btn btn2">去下载</button>
+                    </div>
+                </div><!-- /.modal-content -->
+            </div>
+        </div><!-- /.modal -->
+        <script>  
+            if ($(".worksDetail .catalogue .chapter-list").height() < 240) {
+                $('.mask1').css('display', 'none');
+            }
+            else
+            {
+                var catalogue = $('.worksDetail .catalogue .module-bd');
+                catalogue.click(
+                 function () {
+                     if ($('.mask1 a').hasClass('upfold')) {
+                         $('.worksDetail .catalogue .module-bd .upfold, .worksDetail .catalogue .module-bd .fold').removeClass('upfold').addClass('fold');
+                         $('.mask1').css('display', 'none');
+                         $('.worksDetail .catalogue .chapterWrap').addClass('heightAuto');
+                         $('.worksDetail .catalogue .chapter-list').css('height', 'auto');
+                         $('.worksDetail .catalogue .chapterWrap').css('max-height', '');
+                     }
+                     else {
+                         $('.worksDetail .catalogue .module-bd .upfold, .worksDetail .catalogue .module-bd .fold').removeClass('fold').addClass('upfold');
+                         $('.worksDetail .catalogue .chapter-list').removeClass('heightAuto');
+                         $('.worksDetail .catalogue .chapterWrap').removeClass('heightAuto');
+                         $('.mask1').css('display', 'block');
+                         $('.worksDetail .catalogue .chapterWrap').css('max-height', '16.8rem');
+                     }
+                 }
+               )
+            }
+
+            // var text = box.html();
+            // var newBox = $('<div></div>');
+            // var btn = $('<a href="javascript:;"></a>');
+            // newBox.html (text.substring(0,110));
+
+            // btn.hasClass('fold')  ? $(this).removeClass('fold') : $(this).addClass('fold');
+            // if(text.length > 110){
+            //     btn.addClass('upfold');
+            // }
+
+            // $(document).on('click',box,function () {
+            //     if (btn.hasClass('fold')){
+            //         newBox.html (text.substring(0,110));
+            //         btn.removeClass('fold');
+            //     }else{
+            //         newBox.html(text) ;
+            //         btn.addClass('fold');
+            //     }
+            // })
+            // box.html("");
+            // box.append(newBox);
+            // box.append(btn);
+
+
+            // var catalogue = $('.worksDetail .catalogue .module-bd');
+            // $(document).on("click",".worksDetail .catalogue .upfold",function(){
+            //     $(this).removeClass('upfold').addClass('fold');
+            //     $('.worksDetail .catalogue .chapterWrap').addClass('heightAuto');
+            //     $('.worksDetail .catalogue .chapter-list').css('height','auto');
+            // }).on("click",".worksDetail .catalogue .fold",function(){
+            //     $(this).removeClass('fold').addClass('upfold');
+            //     $('.worksDetail .catalogue .chapter-list').removeClass('heightAuto');
+            //     $('.worksDetail .catalogue .chapterWrap').removeClass('heightAuto');
+            // })
+
+        </script> 
+    </body>
+</html>

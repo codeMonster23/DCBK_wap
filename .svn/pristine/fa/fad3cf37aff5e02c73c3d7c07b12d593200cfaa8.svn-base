@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+    	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    	<meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no,initial-scale=1.0">
+        <link rel="stylesheet"  href="../../css/bootstrap.min.css">
+        <link rel="stylesheet"  href="../../css/global.css">
+        <link rel="stylesheet"  href="../../css/index.css">
+        <script src="../../js/jquery-1.10.1.min.js"></script>
+        <script src="../../js/bootstrap.min.js"></script>
+        <script src="../../js/public.js"></script>
+    </head>
+    <body>
+        <div class="wrap">
+            <!-- <div class="topbar">
+                <a href="" class="indexPage">首页</a>
+                <div class="title">CNKI大成编客</div>
+                <div class="login"><a href="">登录</a>|<a href="">注册</a></div>
+            </div> -->
+            <header>
+                <a href="" class="home"></a>
+                CNKI大成编客
+                <a href="javascript:;" class="share"></a>
+            </header>
+            <div class="editor works">
+                <div class="wrapper">
+                    <div class="topBanner">
+                        <div class="profile">
+                            <!-- <a href="javascript:;" class="share"></a> -->
+                            <div class="avatar"><img src="../../imagesTemp/index/r_t_avatar.png" alt="" width="100%"></div>
+                            <p class="name">安静的一朵云</p>
+                            <p>同方知网 | 大学教师</p>
+                            <div class="topNav clearfix">
+                                <a href="" class="redColor"><i>125</i><span>作品</span></a><span class="line fl"></span>
+                                <a href="" class="orangeColor"><i>20</i><span>讲坛</span></a><span class="line fl"></span>
+                                <a href="" class="greenColor"><i>53</i><span>学术交流</span></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab">
+                        <div class="p-tabNav p-tabNav1">
+                            <ul class="clearfix">
+                                <li class="nav-item toggle"><a href="javascript:void(0)"><span>人气</span><i></i></a></li>
+                                <li class="nav-item toggle active"><a href="javascript:void(0)"><span>时间</span><i></i></a></li>
+                                <li class="nav-item category">
+                                    <a href="javascript:void(0)" class="dropdown-toggle"><span>分类</span><i></i></a>
+                                    <div class="sidebar">
+                                        <ol>
+                                            <li>
+                                                <a href="javascript:void(0)">建筑房产 (86)</a>
+                                            </li>
+                                            <li class="active">
+                                                <a href="javascript:void(0)">生活休闲 (86)</a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:void(0)">经济管理 (86)</a>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:void(0)">政法军事 (86)</a>
+                                            </li>
+                                        </ol>
+                                        <div class="menu">
+                                            <div class="item">
+                                                <a href="javascript:;">建筑房产 (86)</a>
+                                                <a href="javascript:;">建筑房产 (86)</a>
+                                                <a href="javascript:;">建筑房产 (86)</a>
+                                            </div>
+                                            <div class="item active">
+                                                <a href="javascript:;">居家生活 (86)</a>
+                                                <a href="javascript:;">家庭理财 (86)</a>
+                                                <a href="javascript:;">饮食烹饪 (86)</a>
+                                                <a href="javascript:;">孕产母婴 (86)</a>
+                                                <a href="javascript:;">家有儿女 (86)</a>
+                                                <a href="javascript:;">情感生活 (86)</a>
+                                                <a href="javascript:;">修身养性 (86)</a>
+                                                <a href="javascript:;">成功励志 (86)</a>
+                                                <a href="javascript:;">家庭理财 (86)</a>
+                                                <a href="javascript:;">饮食烹饪 (86)</a>
+                                                <a href="javascript:;">孕产母婴 (86)</a>
+                                                <a href="javascript:;">家有儿女 (86)</a>
+                                                <a href="javascript:;">情感生活 (86)</a>
+                                                <a href="javascript:;">修身养性 (86)</a>
+                                                <a href="javascript:;">成功励志 (86)</a>
+                                                <a href="javascript:;">家庭理财 (86)</a>
+                                                <a href="javascript:;">饮食烹饪 (86)</a>
+                                                <a href="javascript:;">孕产母婴 (86)</a>
+                                                <a href="javascript:;">家有儿女 (86)</a>
+                                                <a href="javascript:;">情感生活 (86)</a>
+                                                <a href="javascript:;">修身养性 (86)</a>
+                                                <a href="javascript:;">成功励志 (86)</a>
+                                            </div>
+                                            <div class="item">
+                                                <a href="javascript:;">经济管理 (86)</a>
+                                                <a href="javascript:;">经济管理 (86)</a>
+                                                <a href="javascript:;">经济管理 (86)</a>
+                                                <a href="javascript:;">经济管理 (86)</a>
+                                                <a href="javascript:;">经济管理 (86)</a>
+                                                <a href="javascript:;">经济管理 (86)</a>
+                                            </div>
+                                            <div class="item">
+                                                <a href="javascript:;">政法军事 (86)</a>
+                                                <a href="javascript:;">政法军事 (86)</a>
+                                                <a href="javascript:;">政法军事 (86)</a>
+                                            </div>
+                                            <div class="item">
+                                                <a href="javascript:;">人文社科 (86)</a>
+                                                <a href="javascript:;">人文社科 (86)</a>
+                                                <a href="javascript:;">人文社科 (86)</a>
+                                            </div>
+                                            <div class="item">
+                                                <a href="javascript:;">医药卫生 (86)</a>
+                                                <a href="javascript:;">医药卫生 (86)</a>
+                                                <a href="javascript:;">医药卫生 (86)</a>
+                                            </div>
+                                            <div class="item">
+                                                <a href="javascript:;">农林牧渔 (86)</a>
+                                                <a href="javascript:;">农林牧渔 (86)</a>
+                                                <a href="javascript:;">农林牧渔 (86)</a>
+                                            </div>
+                                            <div class="item">
+                                                <a href="javascript:;">信息科技 (86)</a>
+                                                <a href="javascript:;">信息科技 (86)</a>
+                                                <a href="javascript:;">信息科技 (86)</a>
+                                            </div>
+                                            <div class="item">
+                                                <a href="javascript:;">建筑房产 (86)</a>
+                                                <a href="javascript:;">建筑房产 (86)</a>
+                                                <a href="javascript:;">建筑房产 (86)</a>
+                                            </div>                                      
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                        
+                        <div class="tabContent positionR">
+                            <div class="breadcrumbs"><a href="">全部</a>&gt;<a href="">生活休闲</a>&gt;<span>居家生活</span></div>
+                            <div class="module module3 marginT0">
+                                <div class="module-bd">
+                                    <ul class="imgWrap2 clearfix">
+                                        <li><a href=""><img src="../../imagesTemp/index/m3-2.jpg"></a><h4><a href="">一脉相承，同根同源</a></h4><p>李李思李思李思思<span class="fr">阅读(154)</span></p></li>
+                                        <li><a href=""><img src="../../imagesTemp/index/m3-2.jpg"></a><h4><a href="">世界儿童文学简史</a></h4><p>李思<span class="fr">阅读(154)</span></p></li>
+                                        <li><a href=""><img src="../../imagesTemp/index/m3-2.jpg"></a><h4><a href="">衡文久远</a> </h4><p>李思<span class="fr">阅读(154)</span></p></li>
+                                        <li><a href=""><img src="../../imagesTemp/index/m3-2.jpg"></a><h4><a href="">姓名与汉文化</a></h4><p>李思<span class="fr">阅读(154)</span></p></li>
+                                        <li><a href=""><img src="../../imagesTemp/index/m3-1.jpg"></a><h4><a href="">生活中的趣味物理</a></h4><p>李思<span class="fr">阅读(154)</span></p></li>
+                                        <li><a href=""><img src="../../imagesTemp/index/m3-1.jpg"></a><h4><a href="">中国古代历史上的奸人</a></h4><p>李思<span class="fr">阅读(154)</span></p></li>
+                                        <li><a href=""><img src="../../imagesTemp/index/m3-1.jpg"></a><h4><a href="">古生物大揭秘</a></h4><p>李思<span class="fr">阅读(154)</span></p></li>
+                                        <li><a href=""><img src="../../imagesTemp/index/m3-1.jpg"></a><h4><a href="">茶香墨韵赏茶画</a></h4><p>李思<span class="fr">阅读(154)</span></p></li>
+                                    </ul>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <a href="" class="loading"><img src="../../images/index/loading.png" alt=""><span>加载更多</span></a>
+                </div>           
+            
+            </div>
+            <div class="copyright">&copy;2017 CNKI大成编客</div>
+        </div>
+        
+        <div class="mask">
+            <h4>分享到：</h4>
+            <ul>
+                <li>
+                    <a href="javascript:;"><img src="../../images/index/share1.png"  width="100%" alshare=""></a>
+                    <p>微信朋友圈</p>
+                </li>
+                <li>
+                    <a href="javascript:;"><img src="../../images/index/share2.png"  width="100%" alt=""></a>
+                    <p>微信好友</p>
+                </li>
+                <li>
+                    <a href="javascript:;"><img src="../../images/index/share3.png"  width="100%" alt=""></a>
+                    <p>新浪微博</p>
+                </li>
+                <li>
+                    <a href="javascript:;"><img src="../../images/index/share4.png"  width="100%" alt=""></a>
+                    <p>QQ空间</p>
+                </li>
+            </ul>
+        </div>
+        <div class="copyModal">
+            <p>长按复制下方链接,去粘贴给好友吧：</p>
+            <div class="box">https://m.news.baidu.com/newshttps://m.news.baidu.com/news</div>
+            <a href="javascript:;" class="btn">取消</a>
+        </div>
+        <div class="shadow"></div>
+        <div class="shadow1"></div>
+        <script>
+        $('.p-tabNav li.toggle').click(function () {
+            // $('.sidebar').hide();
+            $(this).addClass('active').siblings().removeClass('active');
+        });
+        $('.p-tabNav li.category').click(function (e) {
+            $(this).addClass('active').siblings().removeClass('active');
+            $('.shadow1').toggle();
+            $(this).find('.sidebar').toggle();
+            e.stopPropagation();
+        });
+        $('.category .sidebar li').click(function (e) {
+            var index = $(this).index();
+            var obj = $(this).parent('ol').siblings('.menu').find('.item').eq(index);
+            $(this).addClass('active').siblings().removeClass('active');
+            obj.addClass('active').siblings().removeClass('active');
+            e.stopPropagation();
+        });
+        $('.category .menu a').click(function (e) {
+            e.stopPropagation();
+        });
+        $('.share').click(function (e) {
+            $('.shadow').show();
+            $('.mask').show();
+            e.stopPropagation();
+            $('body').on('touchmove',function  (e) {
+                e.preventDefault()
+            })
+        });
+       
+        $('.mask li a').click(function () {
+            $('.shadow').show();
+            $('.mask').hide();
+            $('.copyModal').show();
+        });
+        $('.copyModal .btn').click(function () {
+            $('.shadow').hide();
+            $('.copyModal').hide();
+            $('body').off('touchmove');
+        });
+        $('.shadow').click(function () {
+            $(this).hide();
+            $('.mask').hide();
+            $('.copyModal').hide();
+            $('body').off('touchmove');
+        });
+
+        $('.shadow1').click(function () {
+            $(this).hide();
+            $('.sidebar').hide();
+        });
+        </script>
+    </body>
+</html>

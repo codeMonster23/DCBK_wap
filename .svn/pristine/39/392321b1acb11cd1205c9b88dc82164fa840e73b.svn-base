@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+    	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    	<meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no,initial-scale=1.0">
+        <link rel="stylesheet"  href="../css/bootstrap.min.css">
+        <link rel="stylesheet"  href="../css/global.css">
+        <link rel="stylesheet"  href="../css/index.css">
+        <script src="../js/jquery-1.10.1.min.js"></script>
+        <script src="../js/bootstrap.min.js"></script>
+        <script src="../js/public.js"></script>
+    </head>
+    <body>
+        <div class="wrap">
+            <div class="worksDetail">
+                <header>
+                    <a href="" class="return"></a>
+                    评论
+                </header>
+
+                 <!--评论 START-->
+                <div class="module comment mgt0">
+                    <div class="module-hd">
+                        <span class="line"></span>
+                        <div class="title">评论（52）</div>
+                        <a href="" class="btn-comment"></a>
+                    </div>
+                    <div class="module-bd">
+                        <div class="panel">
+                            <div class="panel-heading">
+                                <dl>
+                                    <dt><img src="../imagesTemp/index/wd_c_avatar1.jpg" alt=""></dt>
+                                    <dd>
+                                        <h4>帅到没朋友</h4>
+                                        <p>2016-06-26</p>
+                                    </dd>
+                                </dl>
+                                <a href="" class="mark">201</a>
+                            </div>
+                            <div class="panel-body">
+                                <p>每一个优秀的人，都有一段沉默的时光。那一段时光，是付出了很多努力，忍受孤独和寂寞，不抱怨不诉苦，不辜负不叹息。</p>
+                            </div>
+                        </div>
+                        <div class="panel">
+                            <div class="panel-heading">
+                                <dl>
+                                    <dt><img src="../imagesTemp/index/wd_c_avatar2.jpg" alt=""></dt>
+                                    <dd>
+                                        <h4>杨丁珠珠</h4>
+                                        <p>2016-06-26</p>
+                                    </dd>
+                                </dl>
+                                <a href="" class="mark active">201</a>
+                            </div>
+                            <div class="panel-body">
+                                <p>全球顶级育儿专家用浅显易懂的语言教你如何应对孩子的睡眠问题</p>
+                            </div>
+                        </div>
+                        <div class="panel">
+                            <div class="panel-heading">
+                                <dl>
+                                    <dt><img src="../imagesTemp/index/wd_c_avatar3.jpg" alt=""></dt>
+                                    <dd>
+                                        <h4>冬之恋人</h4>
+                                        <p>2016-06-26</p>
+                                    </dd>
+                                </dl>
+                                <a href="" class="mark">201</a>
+                            </div>
+                            <div class="panel-body">
+                                <p>孩子，尤其是高度敏感的那些孩子，很容易受到父母情绪的感染。假如她突然大发脾气，我们表现出“没事，没问题”的态度，她也会模仿我们的平和，学会安静下来；假如遇事我们任自己大发雷霆或忧心忡忡</p>
+                            </div>
+                        </div>
+                        <div class="panel last">
+                            <div class="panel-heading">
+                                <dl>
+                                    <dt><img src="../imagesTemp/index/wd_c_avatar1.jpg" alt=""></dt>.
+                                    <dd>
+                                        <h4>杨丁珠珠</h4>
+                                        <p>2016-06-26</p>
+                                    </dd>
+                                </dl>
+                                <a href="" class="mark">201</a>
+                            </div>
+                            <div class="panel-body">
+                                <p>全球顶级育儿专家用浅显易懂的语言教你如何应对孩子的睡眠问题</p>
+                            </div>
+                        </div>
+                        <a href="" class="loading grey">更多精彩评论</a>
+                    </div>
+                </div>
+                 <!--评论 END-->
+             </div>
+            <div class="copyright">&copy;2017 CNKI大成编客</div>
+        </div>
+    </body>
+</html>

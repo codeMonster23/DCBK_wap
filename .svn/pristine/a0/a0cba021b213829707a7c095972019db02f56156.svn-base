@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+    	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    	<meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no,initial-scale=1.0">
+        <link rel="stylesheet"  href="../css/bootstrap.min.css">
+        <link rel="stylesheet"  href="../css/global.css">
+        <link rel="stylesheet"  href="../css/index.css">
+        <script src="../js/jquery-1.10.1.min.js"></script>
+        <script src="../js/bootstrap.min.js"></script>
+        <script src="../js/public.js"></script>
+    </head>
+    <body>
+        <div class="wrap">
+            <div class="forum forum6">
+                <header>
+                    <a href="" class="return"></a>
+                    <span class="avatar"><img src="../imagesTemp/index/r_avatar1.jpg"  alt=""></span><span class="name">安静的一朵云</span>
+                    <a href="" class="share"></a>
+                </header>
+                <div class="content">
+                    <section class="positionR">
+                        <article>
+                            <h1>民国情书 我只爱过一个正当最好年龄的人</h1>
+                            <div class="info">2017-03-06&emsp;<span>安静的一朵云</span>&emsp;<!-- 阅读：221 --></div>
+                            <p>现在很多人，明明在一个城市，甚至面对面坐着，却非要用电子通讯问候你好吗，或者，我想你，我爱你。这个时代的通讯越是发达，那些记录在纸页间一笔一划写的文字反而显得弥足珍贵。若是在过去，比如民国，我想你时，我会耐心的写一封情书，一字一句皆是深情，纸张间皆是思念，落笔情深意重。</p>
+                            <p><img src="../imagesTemp/index/forum_article1.jpg" alt=""></p>
+                            <p>你还记得你第一次写情书是什么年纪吗？还记得收到情书时怦然心动的青涩吗？</p>
+                            <p>那些时光深处的记忆，那封手写情书的青春往事，是不是也曾令你念念不忘？</p>
+                            <p><img src="../imagesTemp/index/forum_article2.jpg" alt=""></p>
+                            <div class="pic-title">这个时代，我们不缺情，缺的是爱</div>
+                            <p>这个时代，我们不缺情，缺的是爱；我们不缺人，缺的是伴；我们不缺孤单，缺的是那个能够懂自己孤单的人。</p>
+                            <p>情人节即将到来，整理了一些民国文人们写的情书，愿你在新的一年有人怜惜你妩媚的眼泪，有厚实的肩膀让你依靠，愿你深夜哭过之后，第二天满血复活骄傲生活。好的感情对的人，其实在每一次遇见中都有机会发生，喜欢就去爱，伤心就放手，孤独就出门，很多东西并不是无趣，而是你选择当一个没有参与的旁观者。</p>
+                            <p class="audio"><img src="../imagesTemp/index/audio.jpg" width="100%" alt=""></p>
+                            <p>【沈从文致张兆和】</p>
+                            <p>我一辈子走过许多地方的路，行过许多地方的桥，看过许多次数的云，喝过许多种类的酒，却只爱过一个正当年龄的人。</p>
+                            <p><img src="../imagesTemp/index/video.jpg" width="100%" alt=""></p>
+                            <p class="kw kw2">关键词：民国、情书、沈从文</p>
+                            <a href="" class="like active">144</a>
+                            <p class="share1 share2"><span>阅读（563）</span>| <span>评论（56）</span>| <span class="share-icon">分享到</span></p>
+                        </article>
+                    </section>
+                    <h2>热门评论</h2>
+                    <section class="hot">
+                        <dl>
+                            <dt><img src="../imagesTemp/index/forum_hot1.jpg" alt=""></dt>
+                            <dd>
+                                <h4>空巷候鸟</h4>
+                                <p class="time">03-06  11:02</p>
+                                <p>民谣风格，喜欢这种调性！</p>
+                                <span class="mark active">2019</span>
+                            </dd>
+                        </dl>
+                        <dl>
+                            <dt><img src="../imagesTemp/index/forum_hot1.jpg" alt=""></dt>
+                            <dd>
+                                <h4>刘廷翰Laohan</h4>
+                                <p class="time">03-06  11:02</p>
+                                <p>对细节的纠结，喜欢做作品的态度！赞</p>
+                                <span class="mark">0</span>
+                            </dd>
+                        </dl>
+                        <dl>
+                            <dt><img src="../imagesTemp/index/forum_hot1.jpg" alt=""></dt>
+                            <dd>
+                                <h4>那木潇傻</h4>
+                                <p class="time">03-06  11:02</p>
+                                <p>最近非常喜欢看中文排版，然后看到您的作品，超级棒，想问下您一般您问什么衬线体做设计</p>
+                                <span class="mark">140</span>
+                            </dd>
+                        </dl>
+                        <a href="" class="more">查看更多&gt;</a>
+                        <a href="javascript:;" class="btn" data-toggle="modal" data-target=".modal3">我要评论</a>
+                    </section>
+                    <h2>推荐阅读</h2>  
+                    <div class="recommend-reading">
+                        <section>
+                            <h1>守望书中的智慧</h1>
+                            <p>不知从什么时候开始,"书"成了我心中智慧的象征,而那蕴藏的"智慧"是需要我们去发现和挖掘的。于是,"教书"的经历就成了我"挖金"、守望智慧的经历......</p>
+                            
+                        </section>
+                        <section>
+                            <h1>守望书中的智慧</h1>
+                            <p>不知从什么时候开始,"书"成了我心中智慧的象征,而那蕴藏的"智慧"是需要我们去发现和挖掘的。于是,"教书"的经历就成了我"挖金"、守望智慧的经历......</p>
+                            <p><img src="../imagesTemp/index/forum_article2.jpg"  alt=""></p>
+                        </section>
+                    </div>
+                </div>
+                <div class="copyright">©2017 CNKI大成编客</div>
+            </div>
+        </div>
+        <div class="modal modal3">
+            <div class="modal-content">
+                <h1>发表评论或留言需验证手机</h1>
+                <div class="form-item">
+                    <input type="text" placeholder="请输入手机号">
+                </div>
+                <div class="form-item verfify-code clearfix">
+                    <input type="text"  placeholder="验证码">
+                    <a href="" class="btn">获取验证码</a>
+                </div>
+                <a href="" class="btn btn-submit center-block">提交</a>
+            </div>
+        </div>
+    </body>
+</html>

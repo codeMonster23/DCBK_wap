@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+    	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    	<meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no,initial-scale=1.0">
+        <link rel="stylesheet"  href="../../css/bootstrap.min.css">
+        <link rel="stylesheet"  href="../../css/global.css">
+        <link rel="stylesheet"  href="../../css/index.css">
+        <link rel="stylesheet"  href="../../css/jt.css">
+        <script src="../../js/jquery-1.10.1.min.js"></script>
+        <script src="../../js/public.js"></script>
+    </head>
+    <body>
+        <div class="tran-shade" id="logShade"></div>
+        <div class="header-icons">
+            <div class="header-icon0 home"></div>
+            <div class="header-icon1">
+                <span class="top-triangle"></span>
+                <span class="user-menu">
+                    <a href="http://www.runoob.com/react/react-ajax.html" class="inner-item">我的主页</a>
+                    <a href="#" class="inner-item">我的机构</a>
+                    <a href="#" class="inner-item">我的资料</a>
+                    <a href="#" class="inner-item exit">退出</a>
+                </span>
+            </div>
+        </div>
+        <div class="wrap">
+            <div class="editor personal-homepage personal-homepage-new">
+                <div class="editor">
+                    <div class="wrapper">
+                        <div class="topBanner">
+                            <div class="profile">
+                                <div class="header-bg-blur"></div>
+                                <div class="avatar"><img src="../../imagesTemp/index/ww.jpg" alt="" width="100%"></div>
+                                <p class="name"><span>安静的一朵云</span><a href="#" class="icon">&nbsp;</a></p>
+                                <p class="job">同方知网 | 大学教师</p>
+                                <p class="amount">
+                                    <span>4.16万</span>
+                                    <span>2138</span>
+                                </p>
+                                <nav>
+                                    <div class="nav-inner">
+                                        <div class="item rightBorder">
+                                            <p class="bottomBorder">
+                                                <a href="#">
+                                                    <span>134</span>
+                                                    <span>知网书</span>
+                                                </a>
+
+                                            </p>
+
+                                        </div>
+                                        <div class="item rightBorder">
+                                            <p>
+                                                <a href="#">
+                                                    <span>5</span>
+                                                    <span>讲座</span>
+                                                </a>
+                                            </p>
+
+                                        </div>
+                                        <div class="item">
+                                            <p>
+                                                <a href="#">
+                                                    <span>6</span>
+                                                    <span>栏目</span>
+                                                </a>
+                                            </p>
+
+                                        </div>
+                                    </div>
+                                </nav>
+                            </div>
+                        </div>
+                        <div class="tabListContent">
+                            <div class="listWrap cur">          
+                                <div class="p-tabNav p-tabNav1">
+                                    <ul class="clearfix">
+                                        <li class="nav-item toggle active"><a href="javascript:void(0)"><span>时间</span><i></i></a></li>
+                                        <li class="nav-item toggle"><a href="javascript:void(0)"><span>人气</span><i></i></a></li>
+                                        <li class="nav-item category">
+                                            <a href="javascript:void(0)" class="dropdown-toggle"><span>分类</span><i></i></a>
+                                            <div class="sidebar">
+                                                <ol>
+                                                    <li>
+                                                        <a href="javascript:void(0)">建筑房产 (86)</a>
+                                                    </li>
+                                                    <li class="active">
+                                                        <a href="javascript:void(0)">生活休闲 (86)</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="javascript:void(0)">经济管理 (86)</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="javascript:void(0)">政法军事 (86)</a>
+                                                    </li>
+                                                </ol>
+                                                <div class="menu">
+                                                    <div class="item">
+                                                        <a href="javascript:;">建筑房产 (86)</a>
+                                                        <a href="javascript:;">建筑房产 (86)</a>
+                                                        <a href="javascript:;">建筑房产 (86)</a>
+                                                    </div>
+                                                    <div class="item active">
+                                                        <a href="javascript:;">居家生活 (86)</a>
+                                                        <a href="javascript:;">家庭理财 (86)</a>
+                                                        <a href="javascript:;">饮食烹饪 (86)</a>
+                                                        <a href="javascript:;">孕产母婴 (86)</a>
+                                                        <a href="javascript:;">家有儿女 (86)</a>
+                                                        <a href="javascript:;">情感生活 (86)</a>
+                                                        <a href="javascript:;">修身养性 (86)</a>
+                                                        <a href="javascript:;">成功励志 (86)</a>
+                                                        <a href="javascript:;">家庭理财 (86)</a>
+                                                        <a href="javascript:;">饮食烹饪 (86)</a>
+                                                        <a href="javascript:;">孕产母婴 (86)</a>
+                                                        <a href="javascript:;">家有儿女 (86)</a>
+                                                        <a href="javascript:;">情感生活 (86)</a>
+                                                        <a href="javascript:;">修身养性 (86)</a>
+                                                        <a href="javascript:;">成功励志 (86)</a>
+                                                        <a href="javascript:;">家庭理财 (86)</a>
+                                                        <a href="javascript:;">饮食烹饪 (86)</a>
+                                                        <a href="javascript:;">孕产母婴 (86)</a>
+                                                        <a href="javascript:;">家有儿女 (86)</a>
+                                                        <a href="javascript:;">情感生活 (86)</a>
+                                                        <a href="javascript:;">修身养性 (86)</a>
+                                                        <a href="javascript:;">成功励志 (86)</a>
+                                                    </div>
+                                                    <div class="item">
+                                                        <a href="javascript:;">经济管理 (86)</a>
+                                                        <a href="javascript:;">经济管理 (86)</a>
+                                                        <a href="javascript:;">经济管理 (86)</a>
+                                                        <a href="javascript:;">经济管理 (86)</a>
+                                                        <a href="javascript:;">经济管理 (86)</a>
+                                                        <a href="javascript:;">经济管理 (86)</a>
+                                                    </div>
+                                                    <div class="item">
+                                                        <a href="javascript:;">政法军事 (86)</a>
+                                                        <a href="javascript:;">政法军事 (86)</a>
+                                                        <a href="javascript:;">政法军事 (86)</a>
+                                                    </div>
+                                                    <div class="item">
+                                                        <a href="javascript:;">人文社科 (86)</a>
+                                                        <a href="javascript:;">人文社科 (86)</a>
+                                                        <a href="javascript:;">人文社科 (86)</a>
+                                                    </div>
+                                                    <div class="item">
+                                                        <a href="javascript:;">医药卫生 (86)</a>
+                                                        <a href="javascript:;">医药卫生 (86)</a>
+                                                        <a href="javascript:;">医药卫生 (86)</a>
+                                                    </div>
+                                                    <div class="item">
+                                                        <a href="javascript:;">农林牧渔 (86)</a>
+                                                        <a href="javascript:;">农林牧渔 (86)</a>
+                                                        <a href="javascript:;">农林牧渔 (86)</a>
+                                                    </div>
+                                                    <div class="item">
+                                                        <a href="javascript:;">信息科技 (86)</a>
+                                                        <a href="javascript:;">信息科技 (86)</a>
+                                                        <a href="javascript:;">信息科技 (86)</a>
+                                                    </div>
+                                                    <div class="item">
+                                                        <a href="javascript:;">建筑房产 (86)</a>
+                                                        <a href="javascript:;">建筑房产 (86)</a>
+                                                        <a href="javascript:;">建筑房产 (86)</a>
+                                                    </div>                                      
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="module module3 marginT0">
+                                    <div class="module-bd">
+                                        <ul class="imgWrap2 clearfix">
+                                            <li><a href=""><img src="../../imagesTemp/index/m3-2.jpg"></a><h4><a href="">一脉相承，同根同源</a></h4><p>李李思李思李思思<span class="fr">阅读(154)</span></p></li>
+                                            <li><a href=""><img src="../../imagesTemp/index/m3-2.jpg"></a><h4><a href="">世界儿童文学简史</a></h4><p>李思<span class="fr">阅读(154)</span></p></li>
+                                            <li><a href=""><img src="../../imagesTemp/index/m3-2.jpg"></a><h4><a href="">衡文久远</a> </h4><p>李思<span class="fr">阅读(154)</span></p></li>
+                                            <li><a href=""><img src="../../imagesTemp/index/m3-2.jpg"></a><h4><a href="">姓名与汉文化</a></h4><p>李思<span class="fr">阅读(154)</span></p></li>
+                                            <li><a href=""><img src="../../imagesTemp/index/m3-1.jpg"></a><h4><a href="">生活中的趣味物理</a></h4><p>李思<span class="fr">阅读(154)</span></p></li>
+                                            <li><a href=""><img src="../../imagesTemp/index/m3-1.jpg"></a><h4><a href="">中国古代历史上的奸人</a></h4><p>李思<span class="fr">阅读(154)</span></p></li>
+                                            <li><a href=""><img src="../../imagesTemp/index/m3-1.jpg"></a><h4><a href="">古生物大揭秘</a></h4><p>李思<span class="fr">阅读(154)</span></p></li>
+                                            <li><a href=""><img src="../../imagesTemp/index/m3-1.jpg"></a><h4><a href="">茶香墨韵赏茶画</a></h4><p>李思<span class="fr">阅读(154)</span></p></li>
+                                        </ul>
+                                    </div>
+                                    <a href="" class="loading"><img src="../../images/index/loading.png" alt=""><span>加载更多</span></a>
+                                </div>
+                            </div>   
+                            <div class="listWrap list clearfix">
+                                <div class="listContent clearfix">
+                                    <div class="box box-normal">
+                                        <div class="pic"><img width="100%" src="../../imagesTemp/index/w7.jpg"></div>
+                                        <div class="title">新型政商关系两学一做新型政商关系两学一做新型政商关系两学一做</div>
+                                        <div class="info">
+                                            <div class="author">王伟</div>
+                                            <div class="data2">258</div>
+                                            <div class="data1 data1-icon1">365</div>
+                                        </div>
+                                        <div class="tag">图文讲座</div>
+                                    </div>
+                                    <div class="box box-normal">
+                                        <div class="pic"><img width="100%" src="../../imagesTemp/index/w7.jpg"></div>
+                                        <div class="title">新型政商关系两学一做</div>
+                                        <div class="info">
+                                            <div class="author">王伟</div>
+                                            <div class="data2">258</div>
+                                            <div class="data1 data1-icon2">365</div>
+                                        </div>
+                                        <div class="tag">音频讲座</div>
+                                    </div>
+                                    <div class="box box-normal">
+                                        <div class="pic"><img width="100%" src="../../imagesTemp/index/w7.jpg"></div>
+                                        <div class="title">新型政商关系两学一做新型政商关系两学一做新型政商关系两学一做</div>
+                                        <div class="info">
+                                            <div class="author">王伟</div>
+                                            <div class="data2">258</div>
+                                            <div class="data1 data1-icon1">365</div>
+                                        </div>
+                                        <div class="tag">视频讲座</div>
+                                    </div>
+                                    <div class="box box-normal">
+                                        <div class="pic"><img width="100%" src="../../imagesTemp/index/w7.jpg"></div>
+                                        <div class="title">新型政商关系两学一做新型政商关系两学一做新型政商关系两学一做</div>
+                                        <div class="info">
+                                            <div class="author">王伟</div>
+                                            <div class="data2">258</div>
+                                            <div class="data1 data1-icon1">365</div>
+                                        </div>
+                                        <div class="tag">图文讲座</div>
+                                    </div>
+                                    <div class="box box-normal">
+                                        <div class="pic"><img width="100%" src="../../imagesTemp/index/w7.jpg"></div>
+                                        <div class="title">新型政商关系两学一做新型政商关系两学一做新型政商关系两学一做</div>
+                                        <div class="info">
+                                            <div class="author">王伟</div>
+                                            <div class="data2">258</div>
+                                            <div class="data1 data1-icon1">365</div>
+                                        </div>
+                                        <div class="tag">图文讲座</div>
+                                    </div>
+                                    <div class="box box-normal">
+                                        <div class="pic"><img width="100%" src="../../imagesTemp/index/w7.jpg"></div>
+                                        <div class="title">新型政商关系两学一做新型政商关系两学一做新型政商关系两学一做</div>
+                                        <div class="info">
+                                            <div class="author">王伟</div>
+                                            <div class="data2">258</div>
+                                            <div class="data1 data1-icon1">365</div>
+                                        </div>
+                                        <div class="tag">图文讲座</div>
+                                    </div>
+                                    <div class="box box-normal">
+                                        <div class="pic"><img width="100%" src="../../imagesTemp/index/w7.jpg"></div>
+                                        <div class="title">新型政商关系两学一做新型政商关系两学一做新型政商关系两学一做</div>
+                                        <div class="info">
+                                            <div class="author">王伟</div>
+                                            <div class="data2">258</div>
+                                            <div class="data1 data1-icon1">365</div>
+                                        </div>
+                                        <div class="tag">图文讲座</div>
+                                    </div>
+                                    <div class="box box-normal">
+                                        <div class="pic"><img width="100%" src="../../imagesTemp/index/w7.jpg"></div>
+                                        <div class="title">新型政商关系两学一做新型政商关系两学一做新型政商关系两学一做</div>
+                                        <div class="info">
+                                            <div class="author">王伟</div>
+                                            <div class="data2">258</div>
+                                            <div class="data1 data1-icon1">365</div>
+                                        </div>
+                                        <div class="tag">图文讲座</div>
+                                    </div>
+                                </div>
+                                <a href="" class="loading"><img src="../../images/index/loading.png" alt=""><span>加载更多</span></a>
+                            </div>
+                            <div class="listWrap list clearfix list-no-paddingLeft">
+                                <div class="listContent clearfix">
+                                    <div class="box box-view">
+                                        <div class="pic"><img width="100%" src="../../imagesTemp/index/w7.jpg"></div>
+                                        <div class="title">新型政商关系两学一做</div>
+                                        <div class="info">
+                                            <div class="author">王伟</div>
+                                            <div class="data2">258</div>
+                                            <div class="data4">365</div>
+                                        </div>
+                                    </div>
+                                    <div class="box box-view">
+                                        <div class="pic"><img width="100%" src="../../imagesTemp/index/w7.jpg"></div>
+                                        <div class="title">新型政商关系两学一做</div>
+                                        <div class="info">
+                                            <div class="author">王伟</div>
+                                            <div class="data2">258</div>
+                                            <div class="data4">365</div>
+                                        </div>
+                                    </div>
+                                    <div class="box box-view">
+                                        <div class="pic"><img width="100%" src="../../imagesTemp/index/w7.jpg"></div>
+                                        <div class="title">新型政商关系两学一做</div>
+                                        <div class="info">
+                                            <div class="author">王伟</div>
+                                            <div class="data2">258</div>
+                                            <div class="data4">365</div>
+                                        </div>
+                                    </div>
+                                    <div class="box box-view">
+                                        <div class="pic"><img width="100%" src="../../imagesTemp/index/w7.jpg"></div>
+                                        <div class="title">新型政商关系两学一做</div>
+                                        <div class="info">
+                                            <div class="author">王伟</div>
+                                            <div class="data2">258</div>
+                                            <div class="data4">365</div>
+                                        </div>
+                                    </div>
+                                    <div class="box box-view">
+                                        <div class="pic"><img width="100%" src="../../imagesTemp/index/w7.jpg"></div>
+                                        <div class="title">新型政商关系两学一做</div>
+                                        <div class="info">
+                                            <div class="author">王伟</div>
+                                            <div class="data2">258</div>
+                                            <div class="data4">365</div>
+                                        </div>
+                                    </div>
+                                    <div class="box box-view">
+                                        <div class="pic"><img width="100%" src="../../imagesTemp/index/w7.jpg"></div>
+                                        <div class="title">新型政商关系两学一做</div>
+                                        <div class="info">
+                                            <div class="author">王伟</div>
+                                            <div class="data2">258</div>
+                                            <div class="data4">365</div>
+                                        </div>
+                                    </div>
+                                    <div class="box box-view">
+                                        <div class="pic"><img width="100%" src="../../imagesTemp/index/w7.jpg"></div>
+                                        <div class="title">新型政商关系两学一做</div>
+                                        <div class="info">
+                                            <div class="author">王伟</div>
+                                            <div class="data2">258</div>
+                                            <div class="data4">365</div>
+                                        </div>
+                                    </div>
+                                    <div class="box box-view">
+                                        <div class="pic"><img width="100%" src="../../imagesTemp/index/w7.jpg"></div>
+                                        <div class="title">新型政商关系两学一做</div>
+                                        <div class="info">
+                                            <div class="author">王伟</div>
+                                            <div class="data2">258</div>
+                                            <div class="data4">365</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                 <a href="" class="loading"><img src="../../images/index/loading.png" alt=""><span>加载更多</span></a>
+                            </div>
+                        </div>
+                    </div>           
+                
+                </div>
+            </div>
+            <a href="" class="backtop"></a>
+            <div class="copyright">&copy;2017 CNKI大成编客</div>
+        </div>
+        
+        <script>
+        $('.p-tabNav li.toggle').click(function () {
+            $(this).addClass('active').siblings().removeClass('active');
+        });
+        $('.p-tabNav li.category').click(function (e) {
+            $(this).addClass('active').siblings().removeClass('active');
+            $('.shadow1').toggle();
+            $(this).find('.sidebar').toggle();
+            e.stopPropagation();
+        });
+        $('.category .sidebar li').click(function (e) {
+            var index = $(this).index();
+            var obj = $(this).parent('ol').siblings('.menu').find('.item').eq(index);
+            $(this).addClass('active').siblings().removeClass('active');
+            obj.addClass('active').siblings().removeClass('active');
+            e.stopPropagation();
+        });
+        $('.category .menu a').click(function (e) {
+            e.stopPropagation();
+        });
+
+        $('.p-tabNav2 li.toggle').click(function () {
+            var index=$(this).index();
+            $(this).parents('.p-tabNav2').siblings('.tabContent2').find('.content').eq(index).addClass('cur').siblings().removeClass('cur')
+        });
+
+        $('.personal-homepage-new .topBanner nav .item').click(function () {
+            $(this).find('p').addClass('bottomBorder').parent('.item').siblings().find('p').removeClass('bottomBorder');
+            $('.listWrap').eq($(this).index()).addClass('cur').siblings().removeClass('cur');
+        });
+        </script>
+    </body>
+</html>
